@@ -82,7 +82,7 @@ btn6.addEventListener("click", function(){
 
 
 Telegram.WebApp.onEvent("mainButtonClicked", function(){
-	tg.switchInlineQuery("123");
+	// tg.switchInlineQuery("123");
 });
 
 
